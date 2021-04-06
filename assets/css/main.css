@@ -91,3 +91,10 @@ p {
     padding: 10px;
 }
 */
+
+.toppings {
+    text-align: center;
+    background-color: #eee;
+    padding: 10px;
+    margin: 30px 0 30px 0;
+}
